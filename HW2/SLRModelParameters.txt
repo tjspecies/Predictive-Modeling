@@ -1,0 +1,6 @@
+Learning Rate: 1e-06
+Iterations: 1000
+Final MSE: 112.8996813818733
+Slope (m): 1.4689072254572764
+Intercept (b): 0.029472081221912246
+R-squared (R²): 0.5890376513646982

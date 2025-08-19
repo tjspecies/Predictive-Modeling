@@ -1,0 +1,7 @@
+Learning Rate: 0.5
+Iterations: 10000
+Final Error (Batch): 0.0012227131762865958
+Final Error (SGD): 0.0018638465746209569
+Structure: 2 input, 2 hidden, 1 output
+Final Weights (Batch): w1=[4.57588207], w2=[6.47586523], w3=[4.57674144], w4=[6.47942918], w5=[-10.29025385], w6=[9.58451273]
+Final Weights (SGD): w1=[-6.37473985], w2=[-4.5640648], w3=[-6.61913226], w4=[-4.60274053], w5=[-9.56318415], w6=[9.43536846]
