@@ -2,7 +2,7 @@
 
 This repository contains coursework, homework, and experiments for Predictive Modeling.  
 The goal is to explore and apply machine learning techniques such as regression, classification, and neural networks to real-world datasets.  
-
+A PDF document explaining each finding is included within each project.
 ---
 
 ## Repository Structure  
@@ -57,12 +57,10 @@ Open the desired assignment or homework folder and run the scripts or notebooks.
 Author
 Issa Tijani
 Graduate Student in Data Science
-LinkedIn Profile: your-linkedin-url
+LinkedIn Profile: www.linkedin.com/in/tijani-issa-638783a1
 
 Notes
 This repository is primarily academic and practice-focused.
 It showcases progressive learning in predictive modeling, from simple regression to neural networks.
-
-
 ---
 
